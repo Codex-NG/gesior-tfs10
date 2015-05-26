@@ -26,7 +26,7 @@ $config['site']['flag_images_extension'] = '.png';
 # Create Account Options
 $config['site']['one_email'] = false;
 $config['site']['create_account_verify_mail'] = false;
-$config['site']['verify_code'] = true;
+$config['site']['verify_code'] = false;
 $config['site']['email_days_to_change'] = 3;
 $config['site']['newaccount_premdays'] = 7;
 $config['site']['send_register_email'] = false;
